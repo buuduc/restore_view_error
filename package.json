@@ -1,0 +1,12 @@
+{
+  "name": "brighteon",
+  "version": "1.0.0",
+  "description": "this module help to run script in brighteon project",
+  "main": "index.js",
+  "author": "Duc Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pg": "^8.7.3"
+  }
+}
