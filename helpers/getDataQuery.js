@@ -7,6 +7,14 @@ const createConfig = (connectionString) => ({
         rejectUnauthorized: false // This line will fix new error
     }
 })
+
+const createConnection =async  (connectionString) => {
+    const config = createConfig(connectionString)
+    const backupPool = new Client(config)
+    await backupPool.connect()
+    return backupPool
+}
+
 const getDataQuery = async ({connectionString, urlChannel, channel_id })=>{
     const config = createConfig(connectionString)
     const backupPool = new Client(config)
@@ -35,4 +43,4 @@ return {
 }
 }
 
-module.exports = getDataQuery
+module.exports = createConnection

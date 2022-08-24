@@ -1,1 +1,2 @@
-require('./compareLostVideo')
+// require('./compareLostVideo')
+require('./getLostDb')

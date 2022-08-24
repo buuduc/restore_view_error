@@ -1,0 +1,2837 @@
+[
+    {
+        "id": "9e5ebabb-3b9c-4f95-a953-0a2c456d7d91",
+        "name": "https://theusmilitarynews.com/restored-republic-",
+        "description": "march 2 2022 , update",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "6a44e598-1a48-49c0-871e-cd39e884006e",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 1449734,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/6a44e598-1a48-49c0-871e-cd39e884006e.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/6a44e598-1a48-49c0-871e-cd39e884006e.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/6a44e598-1a48-49c0-871e-cd39e884006e.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/6a44e598-1a48-49c0-871e-cd39e884006e.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-02T18:15:20.830Z",
+        "updated_at": "2022-03-02T18:50:13.145Z",
+        "published_at": null,
+        "thumbnail_key": "d596296c-9e88-4d2b-9c91-f92996562fa7",
+        "category_id": "5f08437f-d8d1-48c1-b544-935f862165be",
+        "category_assigned_at": "2022-03-02T18:50:13.144Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "c23da29d-1a94-4974-81ab-cd73c244c7c6",
+        "name": "'stopping the  Eating of children, sex trafficking and organ harvesting.",
+        "description": "exposing and trying to fight the blackest evil",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "bd18ef8a-4f4d-4122-878f-9b521313be31",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 608608,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/bd18ef8a-4f4d-4122-878f-9b521313be31.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/bd18ef8a-4f4d-4122-878f-9b521313be31.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/bd18ef8a-4f4d-4122-878f-9b521313be31.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/bd18ef8a-4f4d-4122-878f-9b521313be31.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-16T19:55:48.555Z",
+        "updated_at": "2021-02-16T20:42:06.916Z",
+        "published_at": null,
+        "thumbnail_key": "534e0457-c6bd-4fa1-8337-4c080843d76e",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-02-16T20:42:06.914Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "07267833-b43b-4115-ac00-bf0db8df793c",
+        "name": "'Benjamin Fulford Full Report Humanity is Being Liberated as White Hat Alliance Goes on the Offensive.",
+        "description": "update",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "19d436bd-f8b8-46a4-bcfe-02f38c2aff92",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 677634,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/19d436bd-f8b8-46a4-bcfe-02f38c2aff92.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/19d436bd-f8b8-46a4-bcfe-02f38c2aff92.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/19d436bd-f8b8-46a4-bcfe-02f38c2aff92.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/19d436bd-f8b8-46a4-bcfe-02f38c2aff92.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-03T18:53:02.732Z",
+        "updated_at": "2022-03-03T21:15:06.094Z",
+        "published_at": null,
+        "thumbnail_key": "67dcfb1b-9f8e-45ce-a4f3-42c2e138fef2",
+        "category_id": "5f08437f-d8d1-48c1-b544-935f862165be",
+        "category_assigned_at": "2022-03-03T21:15:06.093Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "080ea223-f40f-4e5d-bb5f-16ebb79a04b3",
+        "name": "Liberace Boogie Woogie",
+        "description": " man that's music .",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "020c44bf-2cd6-4e4c-bfd9-1451b945c01f",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 254455,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/020c44bf-2cd6-4e4c-bfd9-1451b945c01f.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/020c44bf-2cd6-4e4c-bfd9-1451b945c01f.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/020c44bf-2cd6-4e4c-bfd9-1451b945c01f.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/020c44bf-2cd6-4e4c-bfd9-1451b945c01f.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T04:07:25.343Z",
+        "updated_at": "2021-02-22T04:38:54.859Z",
+        "published_at": null,
+        "thumbnail_key": "43325b82-8303-43fb-9e13-f67c6cc6161c",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T04:07:25.402Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "b5515e03-e81f-426f-b770-b068b7c4efcc",
+        "name": "glenn miller  in the mood",
+        "description": " good old stuff",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "df821a7b-0744-48a2-b7c5-d13d8f141bb9",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 191592,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/df821a7b-0744-48a2-b7c5-d13d8f141bb9.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/df821a7b-0744-48a2-b7c5-d13d8f141bb9.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/df821a7b-0744-48a2-b7c5-d13d8f141bb9.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/df821a7b-0744-48a2-b7c5-d13d8f141bb9.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T04:17:38.274Z",
+        "updated_at": "2021-02-22T04:46:28.281Z",
+        "published_at": null,
+        "thumbnail_key": "4958ee7d-efec-40e6-a97b-461826c218d1",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T04:17:38.333Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "11ac92a4-6b61-4608-9c77-86f4874ed8bc",
+        "name": "'Peter Gunn Theme by Henry Mancini",
+        "description": " peter gunn tv show audio track",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "e17fa05d-a1f2-426c-bf07-48b4849a534b",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 256400,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/e17fa05d-a1f2-426c-bf07-48b4849a534b.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/e17fa05d-a1f2-426c-bf07-48b4849a534b.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/e17fa05d-a1f2-426c-bf07-48b4849a534b.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/e17fa05d-a1f2-426c-bf07-48b4849a534b.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T04:36:50.228Z",
+        "updated_at": "2021-02-22T05:15:48.803Z",
+        "published_at": null,
+        "thumbnail_key": null,
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T04:36:50.267Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "fb36c34e-9689-4ae6-ae68-9e08d85eec8c",
+        "name": "'Andrew Sisters - Boogie Woogie Bugle Boy (V-Disc 1941",
+        "description": " back when entertainment was entertaining ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "9586e20a-64dc-4d31-a81b-e2f716d69382",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 205600,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/9586e20a-64dc-4d31-a81b-e2f716d69382.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/9586e20a-64dc-4d31-a81b-e2f716d69382.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/9586e20a-64dc-4d31-a81b-e2f716d69382.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/9586e20a-64dc-4d31-a81b-e2f716d69382.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T05:18:28.389Z",
+        "updated_at": "2021-02-22T06:21:10.406Z",
+        "published_at": null,
+        "thumbnail_key": "8003069f-f8c0-49ff-aa05-6ad6fe483f2f",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T05:18:28.445Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "55db1b89-7237-4f8e-891c-26690d28ec03",
+        "name": "'Sing, sing, sing,   Benny Goodman",
+        "description": "   entertaining music with feeling and pride.",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "a185da55-5d1c-42f1-a9da-71ae8a0bc429",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 262560,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/a185da55-5d1c-42f1-a9da-71ae8a0bc429.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/a185da55-5d1c-42f1-a9da-71ae8a0bc429.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/a185da55-5d1c-42f1-a9da-71ae8a0bc429.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/a185da55-5d1c-42f1-a9da-71ae8a0bc429.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T05:35:54.179Z",
+        "updated_at": "2021-02-22T06:22:10.780Z",
+        "published_at": null,
+        "thumbnail_key": "fd0e5ea9-7553-4ddd-aa18-b141ea52e214",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T05:35:54.230Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "b95a3f60-a60c-48d3-8036-89309ddd5c77",
+        "name": "'Jeff Beck-Peter Gunn´s Theme.",
+        "description": "Jeff beck ram rods  a Wild version of mancini's PETER GUNN",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "5876f438-bfc7-40bb-8a29-f8e861ced368",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 295120,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/5876f438-bfc7-40bb-8a29-f8e861ced368.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/5876f438-bfc7-40bb-8a29-f8e861ced368.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/5876f438-bfc7-40bb-8a29-f8e861ced368.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/5876f438-bfc7-40bb-8a29-f8e861ced368.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T05:42:10.229Z",
+        "updated_at": "2021-02-22T06:24:19.293Z",
+        "published_at": null,
+        "thumbnail_key": "e58c51ce-0c39-495c-991a-698168c5db90",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T05:42:10.270Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "9393a3aa-1b0f-43d1-9370-c26d4c9f262d",
+        "name": "Tony Joe White  coolest version of-Polk salad annie",
+        "description": "first and best  swamp snake  version of polk salad annie",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "88ff2607-64d4-40d7-a8a0-9979a7280496",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 215467,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/88ff2607-64d4-40d7-a8a0-9979a7280496.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/88ff2607-64d4-40d7-a8a0-9979a7280496.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/88ff2607-64d4-40d7-a8a0-9979a7280496.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/88ff2607-64d4-40d7-a8a0-9979a7280496.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-22T04:23:57.185Z",
+        "updated_at": "2021-02-22T05:53:07.122Z",
+        "published_at": null,
+        "thumbnail_key": "83f0d0ff-0346-4299-a7cb-9b169df9880e",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-02-22T05:53:07.087Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "0401b32e-8149-4bc2-b5ef-68796ba0511c",
+        "name": "prophecy 62 , from 2002, quarantine , & death vaccine coming,",
+        "description": "An end times prophecy  from our CREATOR YAHUVAH  ,through YAHUSHUAS  Ring Maiden Elizibeth , pastor  of the HOLY TRINITYs'  Ministry -AMIGHTYWIND.com- Aleph &amp; Tav  Prophetic End Time Ministries.",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "05b763ea-2975-4516-91c5-63c044d98ddf",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 492972,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/05b763ea-2975-4516-91c5-63c044d98ddf.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/05b763ea-2975-4516-91c5-63c044d98ddf.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/05b763ea-2975-4516-91c5-63c044d98ddf.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/05b763ea-2975-4516-91c5-63c044d98ddf.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-05T19:20:07.720Z",
+        "updated_at": "2022-03-05T20:18:25.127Z",
+        "published_at": null,
+        "thumbnail_key": "5637825d-f6c2-4c9a-8a46-43645fc65724",
+        "category_id": "0f1c45e9-d311-4d04-b317-44c44f5d04f7",
+        "category_assigned_at": "2022-03-05T19:20:07.722Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "b91d6500-de28-40ad-9ddc-f1527d2c74b7",
+        "name": "doc's insight on Zombification Through Vaccinations.",
+        "description": "insite on vaxxed people and crazy behavior to come",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "01bf3e2a-3954-4beb-a295-ab1dbfefb68c",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": false,
+        "is_editor_picked": false,
+        "duration": 160249,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/01bf3e2a-3954-4beb-a295-ab1dbfefb68c.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/01bf3e2a-3954-4beb-a295-ab1dbfefb68c.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/01bf3e2a-3954-4beb-a295-ab1dbfefb68c.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/01bf3e2a-3954-4beb-a295-ab1dbfefb68c.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-25T03:10:40.358Z",
+        "updated_at": "2021-12-30T01:41:00.249Z",
+        "published_at": null,
+        "thumbnail_key": "b0120873-db10-4a0e-87ee-2d2c3c24cce5",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-12-30T01:41:00.249Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "0c7e4453-a522-48a2-8af0-6efe616aebef",
+        "name": "YOU WANT THE TRUTH! not m.s.m. LIES-https://theusmilitarynews.com/",
+        "description": "'Restored Republic via Update as of March 1, 2022...... Video links and backup proof available at :\n        https://operationdisclosureofficial.com/all-news/",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "5972adfe-2e6f-4aea-912f-50af9396cd5c",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 2058434,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/5972adfe-2e6f-4aea-912f-50af9396cd5c.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/5972adfe-2e6f-4aea-912f-50af9396cd5c.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/5972adfe-2e6f-4aea-912f-50af9396cd5c.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/5972adfe-2e6f-4aea-912f-50af9396cd5c.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-01T20:21:04.872Z",
+        "updated_at": "2022-03-01T21:05:31.341Z",
+        "published_at": null,
+        "thumbnail_key": "f0bd9029-ed1b-4eae-9229-57517ce53b87",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-01T21:05:31.342Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "4c70b3ae-54ef-45b9-af55-161641199a4a",
+        "name": "names of canadian  politicians aligned with klaus schwabs' murder inc.",
+        "description": "just another piece of truth",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "48dd1909-146f-4eaa-bfa5-398588552c3c",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 170474,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/48dd1909-146f-4eaa-bfa5-398588552c3c.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/48dd1909-146f-4eaa-bfa5-398588552c3c.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/48dd1909-146f-4eaa-bfa5-398588552c3c.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/48dd1909-146f-4eaa-bfa5-398588552c3c.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-01T20:49:14.468Z",
+        "updated_at": "2022-03-01T21:46:54.632Z",
+        "published_at": null,
+        "thumbnail_key": "bac2558f-7c5a-48af-9c4c-4828e06ad56f",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-01T21:46:54.632Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "3c0f7aa6-491c-4e6f-a62c-3febc9599c6a",
+        "name": "'Trump's war on Human Trafficking",
+        "description": "led by YAHUVAH to crush satanists",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "294f1704-e46e-4acf-85d1-c687d5bd4098",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 653587,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/294f1704-e46e-4acf-85d1-c687d5bd4098.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/294f1704-e46e-4acf-85d1-c687d5bd4098.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/294f1704-e46e-4acf-85d1-c687d5bd4098.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/294f1704-e46e-4acf-85d1-c687d5bd4098.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-16T20:05:39.743Z",
+        "updated_at": "2021-02-16T22:24:01.189Z",
+        "published_at": null,
+        "thumbnail_key": "d3318707-a004-410d-839c-88adf3466e9a",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-02-16T22:24:01.183Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "11cd15e0-cdcb-436e-9c98-f357b1e63df6",
+        "name": "'trump stopping child murdering elite world wide",
+        "description": "trump serves notice to all the evil richest and powerful people ,worldwide, this is why they all went after him , to get the Satanists back in power ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "22fe51a5-92df-4cb4-87ee-b87e9b5eb351",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 2552350,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/22fe51a5-92df-4cb4-87ee-b87e9b5eb351.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/22fe51a5-92df-4cb4-87ee-b87e9b5eb351.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/22fe51a5-92df-4cb4-87ee-b87e9b5eb351.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/22fe51a5-92df-4cb4-87ee-b87e9b5eb351.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-16T20:53:42.361Z",
+        "updated_at": "2021-02-16T22:28:02.029Z",
+        "published_at": null,
+        "thumbnail_key": "55a9f033-4c8b-469e-b3a4-0d0d767c42cd",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-02-16T22:28:02.025Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "ade243fb-47d7-4da1-8ee8-540ca661e948",
+        "name": "obama,clinton,biden musk,zuker,gates all charged in court records",
+        "description": "crimes against humanity  southern California court records  show top polititicians , industry leaders google abc, charged with rape, torture, persecution organ harvesting, sex, human and  trafficing",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "88464b62-2ce2-42eb-a78d-17b8e14db9d1",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 308008,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/88464b62-2ce2-42eb-a78d-17b8e14db9d1.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/88464b62-2ce2-42eb-a78d-17b8e14db9d1.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/88464b62-2ce2-42eb-a78d-17b8e14db9d1.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/88464b62-2ce2-42eb-a78d-17b8e14db9d1.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-01-28T21:42:55.231Z",
+        "updated_at": "2021-01-28T22:20:40.314Z",
+        "published_at": null,
+        "thumbnail_key": "5e336a2b-20f7-4e9e-b104-0bb6cc85468d",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-01-28T22:20:40.312Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "8b47cb94-358a-4fe3-b07d-7602f2631d1b",
+        "name": "Brilliant Dr. Lee Merit  tells how the \"not a vaccine\" KILLS later ,and will",
+        "description": "Majorly accredited brilliant doctor  breaks ranks and explains the deadly population culling intent of  gates and his vaccine manufacturers  after extreme in-depth research findings. DO NOT TAKE IT  weak die first strong die later.",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "12d53c19-6124-4cdc-8d0c-21063ac249e4",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 1811076,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/12d53c19-6124-4cdc-8d0c-21063ac249e4.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/12d53c19-6124-4cdc-8d0c-21063ac249e4.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/12d53c19-6124-4cdc-8d0c-21063ac249e4.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/12d53c19-6124-4cdc-8d0c-21063ac249e4.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-18T18:20:50.225Z",
+        "updated_at": "2021-02-18T18:58:19.954Z",
+        "published_at": null,
+        "thumbnail_key": "0d78b568-0b0c-4090-a607-cfd1dd0f6e69",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-02-18T18:20:50.265Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "2e795663-af6b-4ba4-9a51-0e16f75ab516",
+        "name": "portland hospitals  forcably injecting vaccine into unwilling people",
+        "description": "healthy god fearing man choked and pinned down  and forcibly injected by 4 large people while refusing vaccine  DON'T GO TO A HOSPITAL, THEY MUST BE PAID BY QUOTA OF INJECTIONS",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "5c7cc9d1-3ad2-4ef4-894b-a4f23bfc9349",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 340941,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/5c7cc9d1-3ad2-4ef4-894b-a4f23bfc9349.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/5c7cc9d1-3ad2-4ef4-894b-a4f23bfc9349.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/5c7cc9d1-3ad2-4ef4-894b-a4f23bfc9349.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/5c7cc9d1-3ad2-4ef4-894b-a4f23bfc9349.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-01-28T20:34:15.697Z",
+        "updated_at": "2021-01-28T21:09:51.987Z",
+        "published_at": null,
+        "thumbnail_key": "b9cb6cb9-7ea0-45b3-aaad-0bafa9dc81ad",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2021-01-28T21:09:51.975Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "56ec5073-6082-44f7-8228-a348aeda33fe",
+        "name": "'elite child murdering 4 adrenochrome  18+",
+        "description": "sickening  ultra rich and Hollywood scum  demon worshiping Satanists YAHUVAH will cast you into hell for ever &amp; ever",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "4a8484a9-d9f2-43fe-ae4a-6ff12871e27c",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 658458,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/4a8484a9-d9f2-43fe-ae4a-6ff12871e27c.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/4a8484a9-d9f2-43fe-ae4a-6ff12871e27c.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/4a8484a9-d9f2-43fe-ae4a-6ff12871e27c.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/4a8484a9-d9f2-43fe-ae4a-6ff12871e27c.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-03-01T03:04:09.158Z",
+        "updated_at": "2021-03-01T06:03:32.288Z",
+        "published_at": null,
+        "thumbnail_key": "2589b563-a0ef-4a3f-bcd9-b821d171b22a",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-03-01T06:03:32.271Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "763ddd05-8a31-44ac-940a-4b124dc58e3e",
+        "name": "satans  murder contract for the evil  illuminati murderers",
+        "description": " contract steps listed to kill off humanity ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "ddcbec1e-bfd8-49b0-af20-6f745a404d01",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 565357,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/ddcbec1e-bfd8-49b0-af20-6f745a404d01.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/ddcbec1e-bfd8-49b0-af20-6f745a404d01.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/ddcbec1e-bfd8-49b0-af20-6f745a404d01.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/ddcbec1e-bfd8-49b0-af20-6f745a404d01.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-09-12T04:36:59.851Z",
+        "updated_at": "2021-09-12T05:41:54.274Z",
+        "published_at": null,
+        "thumbnail_key": "023a6576-bd16-496c-bc7d-df5b449cf586",
+        "category_id": "0f1c45e9-d311-4d04-b317-44c44f5d04f7",
+        "category_assigned_at": "2021-09-12T04:36:59.855Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "258051d9-8aa8-4398-b81b-52e47fa5cbf1",
+        "name": "if you had the vax and don't want to die watch NOW",
+        "description": " latest discovery on covid lies and remedies ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "84a139bd-74e1-4120-9eba-48740ae15ea7",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 677160,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/84a139bd-74e1-4120-9eba-48740ae15ea7.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/84a139bd-74e1-4120-9eba-48740ae15ea7.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/84a139bd-74e1-4120-9eba-48740ae15ea7.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/84a139bd-74e1-4120-9eba-48740ae15ea7.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-09-12T05:03:12.897Z",
+        "updated_at": "2021-09-12T05:42:28.635Z",
+        "published_at": null,
+        "thumbnail_key": "a2972561-c961-49eb-843b-ae692c77085c",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-09-12T05:03:12.900Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "e1c24d17-75dc-479c-83db-b2d9295d67a9",
+        "name": "HOLLYWOOD PEDO's outed by murdered actor",
+        "description": "'ELITE HOLLYWOOD PEDOPHILES REVEALED BY ACTOR --Issac Kappy died May 13, 2019 after supposedly falling off an Arizona bridge. The Fake media called it a suicide. Tom Hanks called it RoadKill and is suspected of having 42 year old Kappy murdered.",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "3be504cd-0032-4060-80b1-edeaaa2c1267",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 2932034,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/3be504cd-0032-4060-80b1-edeaaa2c1267.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/3be504cd-0032-4060-80b1-edeaaa2c1267.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/3be504cd-0032-4060-80b1-edeaaa2c1267.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/3be504cd-0032-4060-80b1-edeaaa2c1267.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-01-19T21:39:55.627Z",
+        "updated_at": "2021-01-19T23:43:30.775Z",
+        "published_at": null,
+        "thumbnail_key": null,
+        "category_id": "5f08437f-d8d1-48c1-b544-935f862165be",
+        "category_assigned_at": "2021-01-19T23:43:30.769Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "1783a979-bfe2-439d-8456-d21a73eb34e4",
+        "name": "cagney shows how to handle rich bullies ruining society with evil & lies 1943",
+        "description": "  , johnny come lately,  a pure of heart  movie produced by jimmy cagney's dad , starring jimmy cagney showing how to combat evil in power",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "4befef9a-316e-4ca4-81ad-1711867219a2",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 5843672,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/4befef9a-316e-4ca4-81ad-1711867219a2.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/4befef9a-316e-4ca4-81ad-1711867219a2.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/4befef9a-316e-4ca4-81ad-1711867219a2.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/4befef9a-316e-4ca4-81ad-1711867219a2.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-01-29T19:13:21.772Z",
+        "updated_at": "2021-01-29T19:54:53.402Z",
+        "published_at": null,
+        "thumbnail_key": "59d7abeb-9324-4c96-8ca8-6bc1bee8824b",
+        "category_id": "13da7f0e-e12a-41d4-9c6f-e54b5c3c39cd",
+        "category_assigned_at": "2021-01-29T19:54:53.399Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "9ab5e391-9985-497f-b81d-f1e2adb79a18",
+        "name": "'Frightening data regarding COVID-19 vaccine",
+        "description": " If you do not start listening , it's curtains",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "817cce05-4c9e-4a88-8a49-65446afc7620",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 194662,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/817cce05-4c9e-4a88-8a49-65446afc7620.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/817cce05-4c9e-4a88-8a49-65446afc7620.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/817cce05-4c9e-4a88-8a49-65446afc7620.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/817cce05-4c9e-4a88-8a49-65446afc7620.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-03-22T02:44:24.301Z",
+        "updated_at": "2021-03-22T03:35:03.477Z",
+        "published_at": null,
+        "thumbnail_key": "d8df79bb-f0d0-4dbf-b21f-befc417e22ed",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2021-03-22T03:35:03.476Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "379276d2-a537-4202-986e-b6f1ec559bc5",
+        "name": "'Carman  ;-)  Trump Blues",
+        "description": "great song, great musician , great man",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "734a3253-a84e-4292-9c3d-ab1f6e3c45aa",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 193903,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/734a3253-a84e-4292-9c3d-ab1f6e3c45aa.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/734a3253-a84e-4292-9c3d-ab1f6e3c45aa.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/734a3253-a84e-4292-9c3d-ab1f6e3c45aa.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/734a3253-a84e-4292-9c3d-ab1f6e3c45aa.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-03-16T15:02:08.076Z",
+        "updated_at": "2021-03-16T15:25:49.807Z",
+        "published_at": null,
+        "thumbnail_key": "550f3125-2895-4642-99dd-ae47580ee721",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-03-16T15:23:27.543Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "b4508537-0481-4327-bddb-8f2dbd044af8",
+        "name": "situation in Israel is really bad now! gov't  imposed genocide",
+        "description": " anti christ  is running  Israel. He wants YAHUVAH'S children dead  using the gov't forced vaccination to destroy their immune system. The non vaxers will be blamed  then murdered when the vaccinated start dropping dead from minor viruses  that turn deadly in their own bodies ,  from their killed immune system that cannot control disease any longer ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "f47c0cef-e9b9-4f6f-bd4f-102af1020431",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 175467,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/f47c0cef-e9b9-4f6f-bd4f-102af1020431.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/f47c0cef-e9b9-4f6f-bd4f-102af1020431.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/f47c0cef-e9b9-4f6f-bd4f-102af1020431.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/f47c0cef-e9b9-4f6f-bd4f-102af1020431.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-03-22T15:30:50.087Z",
+        "updated_at": "2021-03-22T17:37:46.209Z",
+        "published_at": null,
+        "thumbnail_key": "24580ac3-b639-4a1d-9a55-46ad3f845cde",
+        "category_id": "5f08437f-d8d1-48c1-b544-935f862165be",
+        "category_assigned_at": "2021-03-22T17:37:46.208Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "5c0afc74-df9e-4648-a6ba-65e246cbeddc",
+        "name": "American in Israel!-more news about gov't evil plans",
+        "description": " American working in Israel gives info on gov't imposed terror",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "3ed6f882-fe9c-46aa-86f1-466ee0ad89a6",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 395223,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/3ed6f882-fe9c-46aa-86f1-466ee0ad89a6.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/3ed6f882-fe9c-46aa-86f1-466ee0ad89a6.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/3ed6f882-fe9c-46aa-86f1-466ee0ad89a6.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/3ed6f882-fe9c-46aa-86f1-466ee0ad89a6.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-03-22T16:00:50.878Z",
+        "updated_at": "2021-03-22T17:48:05.426Z",
+        "published_at": null,
+        "thumbnail_key": "c8c1bb47-104f-404f-b76e-46ea11d13bf1",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2021-03-22T16:00:50.881Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "0b669362-d3c3-42c4-95e3-db57b265180a",
+        "name": "Corrine Corrina-willi & asleep at the wheel_",
+        "description": "willie nelson  hoedown style corrina  corrina",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "9d2b6a62-d7e4-4f47-ad2d-7bbca298ec49",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 197440,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/9d2b6a62-d7e4-4f47-ad2d-7bbca298ec49.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/9d2b6a62-d7e4-4f47-ad2d-7bbca298ec49.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/9d2b6a62-d7e4-4f47-ad2d-7bbca298ec49.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/9d2b6a62-d7e4-4f47-ad2d-7bbca298ec49.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-04-04T17:42:00.530Z",
+        "updated_at": "2021-04-04T18:21:24.732Z",
+        "published_at": null,
+        "thumbnail_key": "65a6a527-cb2d-45a4-ac48-66ab5a1033d8",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-04-04T17:42:00.533Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "ec0e7e97-5096-46a1-bba1-afa65a3a8c2b",
+        "name": "'Holdin On Music Video Carman.mp4",
+        "description": "Carman Domenic  great musician great music Great message",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "2bc4e12c-96f9-4019-b20f-34ad2d52b915",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 247948,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/2bc4e12c-96f9-4019-b20f-34ad2d52b915.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/2bc4e12c-96f9-4019-b20f-34ad2d52b915.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/2bc4e12c-96f9-4019-b20f-34ad2d52b915.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/2bc4e12c-96f9-4019-b20f-34ad2d52b915.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-04-04T04:43:13.900Z",
+        "updated_at": "2021-04-04T05:30:50.396Z",
+        "published_at": null,
+        "thumbnail_key": "d2464afe-dae9-4313-a4ff-2245371ba8ba",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-04-04T04:43:13.904Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "db9c3236-bd86-49e9-b905-c733b0b4baf9",
+        "name": "'Prophecy 11 - Rise Up Speak Up Tell The Devil To Shut Up In MY Name",
+        "description": "Real messages from our CREATOR ABBA YAHUVAH  and HIS SON YAHUSHUAH  our SAVIOUR  through HIS true Prophet Elizabeth  Elisheva Eliyahu by YAHUVAH'S RUACH HA KODESH  . from the ministry AMIGHTYWIND.com , headed by the HOLY TRINITY.\n",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "f6795a86-45eb-4f42-ba7d-971f26ebc361",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 1378978,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/f6795a86-45eb-4f42-ba7d-971f26ebc361.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/f6795a86-45eb-4f42-ba7d-971f26ebc361.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/f6795a86-45eb-4f42-ba7d-971f26ebc361.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/f6795a86-45eb-4f42-ba7d-971f26ebc361.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-04-04T16:43:06.154Z",
+        "updated_at": "2021-04-04T18:19:00.328Z",
+        "published_at": null,
+        "thumbnail_key": "2e2651b8-31eb-410c-b5fb-266a752ece2d",
+        "category_id": "0f1c45e9-d311-4d04-b317-44c44f5d04f7",
+        "category_assigned_at": "2021-04-04T16:43:06.157Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "68445819-58c9-475c-b43b-26e5b89f92ec",
+        "name": "Corina Corina (Saturday Club Session November 1965)",
+        "description": "eric burden &amp;the animals  1965",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "2a0d1ccd-47df-4ff8-af57-c79cd35185e5",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 136920,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/2a0d1ccd-47df-4ff8-af57-c79cd35185e5.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/2a0d1ccd-47df-4ff8-af57-c79cd35185e5.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/2a0d1ccd-47df-4ff8-af57-c79cd35185e5.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/2a0d1ccd-47df-4ff8-af57-c79cd35185e5.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-04-04T17:23:16.058Z",
+        "updated_at": "2021-04-04T18:24:28.073Z",
+        "published_at": null,
+        "thumbnail_key": "27111800-8fe1-4d66-86f1-66cb91895b18",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-04-04T17:23:16.064Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "220ff68c-ed88-4352-8253-5dd2afbc684c",
+        "name": "free energy",
+        "description": "powers anything gas or oil can , for free , crushed by government",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "7a9424ab-40d1-411a-9e38-a119d0711698",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 159867,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/7a9424ab-40d1-411a-9e38-a119d0711698.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/7a9424ab-40d1-411a-9e38-a119d0711698.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/7a9424ab-40d1-411a-9e38-a119d0711698.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/7a9424ab-40d1-411a-9e38-a119d0711698.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-05-27T03:57:53.720Z",
+        "updated_at": "2021-05-27T04:49:51.442Z",
+        "published_at": null,
+        "thumbnail_key": null,
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-05-27T03:57:53.723Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "68ce00c1-3293-4c1b-968f-76337bc92f29",
+        "name": "marines tell bidens man  come packin if you want to try to vax us",
+        "description": "bidens clown   defence secretary puppet lloyd austin says all armed forces will be vaxed  with the   unauthorized \"graphene oxide  kill  shot. General David H. Berger says  come armed if you want to try .",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "006fe3b3-1655-413b-8efb-996e0b05ffb7",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 222022,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/006fe3b3-1655-413b-8efb-996e0b05ffb7.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/006fe3b3-1655-413b-8efb-996e0b05ffb7.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/006fe3b3-1655-413b-8efb-996e0b05ffb7.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/006fe3b3-1655-413b-8efb-996e0b05ffb7.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-08-11T16:54:17.335Z",
+        "updated_at": "2021-08-11T18:56:35.290Z",
+        "published_at": null,
+        "thumbnail_key": "200f7d24-0903-4d10-a65b-112d7ec3c64a",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2021-08-11T16:54:17.338Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "73df2002-5cff-4ede-a85c-4d7b5b8ae215",
+        "name": "total debt cancellation now worldwide,RESET,DOCUMENTED&IMPORTANT",
+        "description": " Evidence of corrupt , presidents,government &amp; fed reserve, stalling the nesara/gesara debt reset, Worldwide debt forgiveness  happening NOW , mortgages and debts GONE",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "79a2dbb8-aafe-4dcb-a101-bf2bfe74be2f",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 3535968,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/79a2dbb8-aafe-4dcb-a101-bf2bfe74be2f.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/79a2dbb8-aafe-4dcb-a101-bf2bfe74be2f.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/79a2dbb8-aafe-4dcb-a101-bf2bfe74be2f.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/79a2dbb8-aafe-4dcb-a101-bf2bfe74be2f.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-07-06T16:54:05.989Z",
+        "updated_at": "2021-07-06T18:31:17.824Z",
+        "published_at": null,
+        "thumbnail_key": "2d1ce510-4d19-4176-88df-167f05ce7293",
+        "category_id": "c7f3ffb3-9674-4a57-af67-84b911f04b65",
+        "category_assigned_at": "2021-07-06T18:31:17.824Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "cb5f4746-4148-4fc5-9b64-824608fb801b",
+        "name": "trudeau's secret payoff to kill canadians with killer jab",
+        "description": "trudeau gets billions to  hide truth and keep reducing the canadian population,  A prima facie case proves trudeau and canadian govt are committing premeditated willful acts of murder against canadians , including racketeering and collusion for profit",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "2c7bbccd-1bb2-41f1-b356-570f3a8f373c",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 3894840,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/2c7bbccd-1bb2-41f1-b356-570f3a8f373c.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/2c7bbccd-1bb2-41f1-b356-570f3a8f373c.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/2c7bbccd-1bb2-41f1-b356-570f3a8f373c.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/2c7bbccd-1bb2-41f1-b356-570f3a8f373c.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-08-22T04:25:27.514Z",
+        "updated_at": "2021-08-22T05:42:51.939Z",
+        "published_at": null,
+        "thumbnail_key": "8c72d4e7-f1b1-4c47-8144-90dc864925fc",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-08-22T05:42:51.938Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "c7cfdaf7-7dc4-4d5a-be19-f9ff9ea43cb7",
+        "name": "this reprobate satanist arnold needs a real close shave , bone deep ,",
+        "description": "adrenachrome sucking NWO  piece of garbage  schwarzenegger needs dispatching to his permenant home HELL.. these assholes are getting very old  very fast",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "d6a3b31e-9232-4a02-af2b-b6518916b08c",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 67167,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/d6a3b31e-9232-4a02-af2b-b6518916b08c.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/d6a3b31e-9232-4a02-af2b-b6518916b08c.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/d6a3b31e-9232-4a02-af2b-b6518916b08c.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/d6a3b31e-9232-4a02-af2b-b6518916b08c.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-08-13T21:28:23.521Z",
+        "updated_at": "2021-08-13T22:25:09.922Z",
+        "published_at": null,
+        "thumbnail_key": "fe440ec0-8bd5-4a98-a51a-0dd75348c076",
+        "category_id": "de6ad866-cb67-4fa0-b29e-f70fd8e8190b",
+        "category_assigned_at": "2021-08-13T22:25:09.921Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "9015d66e-0a83-4ad3-87ff-257d2f67bb52",
+        "name": "W.H.O CONCEDES VIRUS Is like  FLU,500000 AMERICANS DEAD FROM VACCINE",
+        "description": "more proof",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "5045d7bb-47fe-4ca0-83aa-23a515dd6a89",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 634601,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/5045d7bb-47fe-4ca0-83aa-23a515dd6a89.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/5045d7bb-47fe-4ca0-83aa-23a515dd6a89.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/5045d7bb-47fe-4ca0-83aa-23a515dd6a89.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/5045d7bb-47fe-4ca0-83aa-23a515dd6a89.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-09-18T05:40:44.805Z",
+        "updated_at": "2021-09-18T16:45:23.623Z",
+        "published_at": null,
+        "thumbnail_key": "981fb5a6-4ac9-4a9c-8ac2-ef7705e46efe",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-09-18T05:40:44.813Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "b41566ed-7599-4851-ac93-7b7260502b5d",
+        "name": "Vaxxers Are Developing A.I.D.S. (Bloodwork Proof).",
+        "description": "the countdown has begun for the victims of  vaccines forced upon them by paid off  government killers",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "71b0dbc9-231b-4d1e-a8c3-4c336560c646",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 316900,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/71b0dbc9-231b-4d1e-a8c3-4c336560c646.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/71b0dbc9-231b-4d1e-a8c3-4c336560c646.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/71b0dbc9-231b-4d1e-a8c3-4c336560c646.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/71b0dbc9-231b-4d1e-a8c3-4c336560c646.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-23T20:54:16.156Z",
+        "updated_at": "2021-11-23T21:28:06.650Z",
+        "published_at": null,
+        "thumbnail_key": "d856a3cd-18e5-47c0-8d1f-7a652d25f4d8",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-11-23T20:54:16.162Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "bc474162-dd03-4fd3-901b-c32e19d5350f",
+        "name": "'Graphene in antibiotics.#1",
+        "description": "they will try anything to get this black goo inside you",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "08045b78-945e-476a-9499-e3429b04566b",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 141834,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/08045b78-945e-476a-9499-e3429b04566b.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/08045b78-945e-476a-9499-e3429b04566b.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/08045b78-945e-476a-9499-e3429b04566b.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/08045b78-945e-476a-9499-e3429b04566b.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-23T21:20:24.777Z",
+        "updated_at": "2021-11-23T22:09:30.956Z",
+        "published_at": null,
+        "thumbnail_key": "bb78a4aa-73eb-4350-b901-ca397d801f7c",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-11-23T21:20:24.781Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "608bf419-088b-461a-a909-329686152879",
+        "name": "this is howTHEY can tell if you have had an actual kill shot",
+        "description": "fake vax passports won't work for much longer , your id and results of shot are in your body now ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "b46a98b2-07aa-4467-9847-96264c614361",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 240665,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/b46a98b2-07aa-4467-9847-96264c614361.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/b46a98b2-07aa-4467-9847-96264c614361.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/b46a98b2-07aa-4467-9847-96264c614361.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/b46a98b2-07aa-4467-9847-96264c614361.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-23T23:22:20.828Z",
+        "updated_at": "2021-11-23T23:52:22.359Z",
+        "published_at": null,
+        "thumbnail_key": "a0a83e0a-4cec-43f9-b0ae-d98931215e46",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-11-23T23:22:20.830Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "1dca2edf-fa2b-4890-95c1-3ca5e10d7564",
+        "name": "These groups are exempt from getting the kill shot",
+        "description": "they don't want to kill their own workers ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "aa2e10e3-eda0-4868-bb66-d8f28d240c1a",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 32522,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/aa2e10e3-eda0-4868-bb66-d8f28d240c1a.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/aa2e10e3-eda0-4868-bb66-d8f28d240c1a.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/aa2e10e3-eda0-4868-bb66-d8f28d240c1a.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/aa2e10e3-eda0-4868-bb66-d8f28d240c1a.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-23T03:08:52.317Z",
+        "updated_at": "2021-11-23T03:50:56.867Z",
+        "published_at": null,
+        "thumbnail_key": "e5157c00-7387-401f-9317-0a5146ffe682",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-11-23T03:08:52.320Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "bedb5413-4b3f-4717-910b-d827d3ff945d",
+        "name": "PRESS SECRETARY FOR ISRAELI PM - VACCINATED PEOPLE NOW DYING,",
+        "description": "PRESS SECRETARY FOR ISRAELI PM - VACCINATED PEOPLE NOW DYING, ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "ca3dba63-30b8-4d67-9c53-53695e525911",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 848937,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/ca3dba63-30b8-4d67-9c53-53695e525911.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/ca3dba63-30b8-4d67-9c53-53695e525911.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/ca3dba63-30b8-4d67-9c53-53695e525911.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/ca3dba63-30b8-4d67-9c53-53695e525911.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-23T03:25:32.340Z",
+        "updated_at": "2021-11-23T03:53:27.267Z",
+        "published_at": null,
+        "thumbnail_key": "9b053c3e-58c7-4bf0-8df8-49c729f77d7e",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-11-23T03:25:32.342Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "435d6b49-29a8-4b79-9709-079c4fa262d1",
+        "name": "Never fire a heavy equipment operator who refuses to take a mandatory death-shot,",
+        "description": "so there,  payback",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "2d6aadfe-4e83-4c17-a43e-a36db729443e",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 21622,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/2d6aadfe-4e83-4c17-a43e-a36db729443e.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/2d6aadfe-4e83-4c17-a43e-a36db729443e.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/2d6aadfe-4e83-4c17-a43e-a36db729443e.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/2d6aadfe-4e83-4c17-a43e-a36db729443e.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-23T03:20:23.800Z",
+        "updated_at": "2021-11-23T04:26:02.646Z",
+        "published_at": null,
+        "thumbnail_key": "6a25cdb4-9f5f-42aa-92bb-864713ebe1b9",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2021-11-23T03:20:23.804Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "fba27080-6a23-41d4-8ced-2f7da75d9885",
+        "name": "'Grace the  caring 'Robot Nurse' NO conscience killer",
+        "description": " after \"THEY\" finish off most of the vaxxed , this will be the  \"thing\"that takes the place of humans",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "c1852ede-fccc-4e1a-a0ef-0cd0d77364c8",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 357634,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/c1852ede-fccc-4e1a-a0ef-0cd0d77364c8.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/c1852ede-fccc-4e1a-a0ef-0cd0d77364c8.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/c1852ede-fccc-4e1a-a0ef-0cd0d77364c8.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/c1852ede-fccc-4e1a-a0ef-0cd0d77364c8.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-24T01:05:29.785Z",
+        "updated_at": "2021-11-24T01:48:03.371Z",
+        "published_at": null,
+        "thumbnail_key": "b16591e0-6ab3-4ad3-b7b8-f860fe8915ba",
+        "category_id": "4ad59df9-25ce-424d-8ac4-4f92d58322b9",
+        "category_assigned_at": "2021-11-24T01:05:29.788Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "ff72d086-71ce-430b-b878-8d3c2d65cebc",
+        "name": "vaxxed zombie types on the go",
+        "description": "typical vaxxed person  after the brain is toast",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "e9b5c8ec-2b48-4af0-8b98-0c29e42ea3f1",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 104303,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/e9b5c8ec-2b48-4af0-8b98-0c29e42ea3f1.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/e9b5c8ec-2b48-4af0-8b98-0c29e42ea3f1.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/e9b5c8ec-2b48-4af0-8b98-0c29e42ea3f1.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/e9b5c8ec-2b48-4af0-8b98-0c29e42ea3f1.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-11-25T03:10:32.530Z",
+        "updated_at": "2021-11-25T04:18:37.558Z",
+        "published_at": null,
+        "thumbnail_key": "2a9c79cb-0e4f-4fc5-b478-0ac800190ad2",
+        "category_id": "5f08437f-d8d1-48c1-b544-935f862165be",
+        "category_assigned_at": "2021-11-25T04:18:37.557Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "2face3bc-a303-4b6b-ad22-6f581c6c836c",
+        "name": "children being stolen in broad daylight",
+        "description": "satanic child thieves on camera ",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "252ff401-6e77-4099-815a-df7bd0fd9f64",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 119253,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/252ff401-6e77-4099-815a-df7bd0fd9f64.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/252ff401-6e77-4099-815a-df7bd0fd9f64.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/252ff401-6e77-4099-815a-df7bd0fd9f64.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/252ff401-6e77-4099-815a-df7bd0fd9f64.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2021-02-28T17:52:56.937Z",
+        "updated_at": "2022-03-21T03:20:20.286Z",
+        "published_at": null,
+        "thumbnail_key": "627b66e0-8e36-411a-b4f2-66549c96068e",
+        "category_id": "5f08437f-d8d1-48c1-b544-935f862165be",
+        "category_assigned_at": "2022-03-21T03:20:20.200Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "2a7f5233-48e8-4a1d-8b5c-ef7cfa62e28e",
+        "name": "biden   the dullard at his sharpest",
+        "description": " video of an idiot",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "99d52b8e-6f46-40fd-9ef2-a5c620341636",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 130740,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/99d52b8e-6f46-40fd-9ef2-a5c620341636.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/99d52b8e-6f46-40fd-9ef2-a5c620341636.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/99d52b8e-6f46-40fd-9ef2-a5c620341636.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/99d52b8e-6f46-40fd-9ef2-a5c620341636.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-15T00:32:16.934Z",
+        "updated_at": "2022-03-15T02:20:18.393Z",
+        "published_at": null,
+        "thumbnail_key": "c89369ff-556b-4060-a637-b54fc1d98aea",
+        "category_id": "f78a5427-f8e2-403d-80a5-b139501693d9",
+        "category_assigned_at": "2022-03-15T00:32:16.938Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "03996a13-b9da-4013-bb70-e25f46fc9c76",
+        "name": "mar-15-22 theusmilitarynews.com NOT M.S.M",
+        "description": "Source: https://restoredrepublic.co/",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "05e907a0-e557-43b3-957b-e121e0127794",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 1519834,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/05e907a0-e557-43b3-957b-e121e0127794.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/05e907a0-e557-43b3-957b-e121e0127794.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/05e907a0-e557-43b3-957b-e121e0127794.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/05e907a0-e557-43b3-957b-e121e0127794.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-15T20:53:27.148Z",
+        "updated_at": "2022-03-15T23:24:43.415Z",
+        "published_at": null,
+        "thumbnail_key": "9e62efcf-4332-4eda-9ec7-c9122cfa8c6a",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-15T23:24:43.414Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "e619205b-6a0c-4590-9b80-5884383f26a1",
+        "name": "eastern ukraine man tells how it really is.THIS ISNT MAINSTREAM.",
+        "description": "eastern  ukraine  man speaks out about what's really going on",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "fd4e8410-50e4-44a8-a93a-2edeab14c628",
+        "show_discretion": false,
+        "overlay_discretion": "Viewer Discretion Advised: This video may contain content disturbing to some people",
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": {
+            "startsAt": ""
+        },
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 354510,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/fd4e8410-50e4-44a8-a93a-2edeab14c628.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/fd4e8410-50e4-44a8-a93a-2edeab14c628.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/fd4e8410-50e4-44a8-a93a-2edeab14c628.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/fd4e8410-50e4-44a8-a93a-2edeab14c628.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-01T20:44:47.811Z",
+        "updated_at": "2022-03-01T21:48:14.890Z",
+        "published_at": null,
+        "thumbnail_key": "98f3898d-3ce5-4c20-8b86-50f1bb4ae354",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-01T21:48:14.889Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": false,
+        "is_premium": false
+    },
+    {
+        "id": "7c863f6d-540a-4959-ae20-4936dabe391a",
+        "name": "https://theusmilitarynews.com/ 03/18/22 NOT mainstream Media",
+        "description": "'Restored Republic via a GCR Update as of March 18, 2022",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "29ba1ed8-400e-42b0-835d-cf4cba8505ed",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 2548900,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/29ba1ed8-400e-42b0-835d-cf4cba8505ed.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/29ba1ed8-400e-42b0-835d-cf4cba8505ed.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/29ba1ed8-400e-42b0-835d-cf4cba8505ed.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/29ba1ed8-400e-42b0-835d-cf4cba8505ed.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-18T18:46:06.663Z",
+        "updated_at": "2022-03-18T19:46:37.891Z",
+        "published_at": null,
+        "thumbnail_key": "aa930b8c-8320-4ef3-8df9-84e33f3f18aa",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-18T18:46:06.665Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "59e132c3-bf8e-4f35-b469-13893f8f6652",
+        "name": "'Benjamin Fulford Full Report  03/18/22  \"big changes:\" NOT M.S.M",
+        "description": " 'Benjamin Fulford Full Report As World Distracted By Ukraine Hysteria, Big Changes Happened",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "8c22c80c-c171-456a-b71c-8c734626d45e",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 730167,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/8c22c80c-c171-456a-b71c-8c734626d45e.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/8c22c80c-c171-456a-b71c-8c734626d45e.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/8c22c80c-c171-456a-b71c-8c734626d45e.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/8c22c80c-c171-456a-b71c-8c734626d45e.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-18T20:04:15.079Z",
+        "updated_at": "2022-03-18T20:49:15.516Z",
+        "published_at": null,
+        "thumbnail_key": "793cd302-7eb1-44bc-ab0d-5d0caf4f1525",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-18T20:04:15.087Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    },
+    {
+        "id": "de92e2fb-b4a2-4e96-a272-6141a3c80946",
+        "name": "THE REAL!! SITUATION UPDATE 3_19_22. NON M.S M.  NEWS/mirrored",
+        "description": " pleasant narration of the latest  WHOLE NON M.S.M ,News big shock , whole truth  laid out",
+        "channel_id": "74c28ff1-3deb-4476-b278-56559cb3e3a2",
+        "video_key": "b86a4f8d-258a-4b19-a554-e302a5bbb663",
+        "show_discretion": false,
+        "overlay_discretion": null,
+        "is_sponsored": false,
+        "is_delisted": false,
+        "publish_schedule": null,
+        "custom_fields": null,
+        "transcode_status": "COMPLETED",
+        "status_id": 1,
+        "is_activated": true,
+        "is_editor_picked": false,
+        "duration": 4507167,
+        "thumbnail_source": [
+            {
+                "src": "thumbnail/b86a4f8d-258a-4b19-a554-e302a5bbb663.0000001.jpg"
+            }
+        ],
+        "poster_source": [
+            {
+                "src": "poster/b86a4f8d-258a-4b19-a554-e302a5bbb663.0000001.jpg"
+            }
+        ],
+        "source": [
+            {
+                "src": "hls/b86a4f8d-258a-4b19-a554-e302a5bbb663.m3u8",
+                "type": "application/x-mpegURL"
+            },
+            {
+                "src": "dash/b86a4f8d-258a-4b19-a554-e302a5bbb663.mpd",
+                "type": "application/dash+xml"
+            }
+        ],
+        "thumbnail": null,
+        "poster": null,
+        "bc_video_id": null,
+        "created_at": "2022-03-20T04:36:43.926Z",
+        "updated_at": "2022-03-20T05:13:16.846Z",
+        "published_at": null,
+        "thumbnail_key": "cd729691-88f1-47eb-af6b-8740765fec08",
+        "category_id": "87960295-2ca4-414d-a836-e150d6e3dc1e",
+        "category_assigned_at": "2022-03-20T04:36:43.930Z",
+        "sale_price": null,
+        "is_for_sale": false,
+        "trailer_url": null,
+        "trailer_id": null,
+        "rotate_category": true,
+        "is_premium": false
+    }
+]
