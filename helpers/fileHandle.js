@@ -8,26 +8,21 @@ const fileHandler = function (nameFile) {
             console.log('file deleted successfully');
         });
     }
-    const writeUpdateView = (data) => {
+    const writeUpdateUrl = (data) => {
         data.forEach((item) => {
-            file.write(`UPDATE analytics SET video_view = analytics.video_view + ${item.subtract} WHERE video_id='${item.videoId}'; \r\n`)
-        })
-        file.end()
-    }
-    const getRandomInt = (min, max) => {
-        min = Math.ceil(min);
-        max = Math.floor(max);
-        return Math.floor(Math.random() * (max - min) + min); //The maximum is 
-      }
-    const writeUpdateErrorView = (data) => {
-        data.forEach((item) => {
-           const viewIncrease = getRandomInt(100,300)
-            file.write(`UPDATE analytics SET video_view = (analytics.video_view + ${item.db1View} - ${item.db2View} + ${viewIncrease}) WHERE video_id='${item.videoId}'; \r\n`)
+            file.write(`UPDATE channels SET thumbnail_url = '${item.thumbnail_url}' WHERE id='${item.id}'; \r\n`)
         })
         file.end()
     }
 
-    return { deleteFile, writeUpdateView,writeUpdateErrorView }
+    const writeUpdateUrlError = (data) => {
+        data.forEach((item) => {
+            file.write(`thumbnail_error: ${item.thumbnail_url} \r\nshort_url = https://www.brighteon.com/channels/${item.short_url} \r\n\r\n`)
+        })
+        file.end()
+    }
+
+    return { deleteFile, writeUpdateUrl, writeUpdateUrlError }
 }
 
 module.exports = fileHandler
